@@ -1,0 +1,24 @@
+{
+  "name": "Typescript",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "tsc": "tsc"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ramsey76/Typescript.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ramsey76/Typescript/issues"
+  },
+  "homepage": "https://github.com/ramsey76/Typescript#readme",
+  "devDependencies": {
+    "typescript": "^3.7.5"
+  }
+}
